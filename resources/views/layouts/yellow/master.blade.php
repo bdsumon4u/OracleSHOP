@@ -103,7 +103,7 @@
         .aa-input-container {
             width: 100%;
             height: 100%;
-            border: 3px solid #53a846;
+            border: 3px solid #0f1f2f;
             border-radius: 7px;
         }
         .algolia-autocomplete {
@@ -130,7 +130,7 @@
             box-shadow: none;
         }
         .mobile-header__search-button {
-            background: #64c036;
+            background: #0f1f2f;
             color: white;
             fill: white;
         }

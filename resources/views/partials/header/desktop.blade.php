@@ -26,7 +26,7 @@
     display: flex;
     flex: 1 1 0%;
     padding: 0px 17px;
-    border: 3px solid #28a745;
+    border: 3px solid #0f1f2f;
     border-radius: 7px 0px 0px 7px;
     outline: none;
     border-right-width: 1px;
@@ -40,13 +40,13 @@
     align-items: center;
     padding-right: 10px;
     padding-left: 10px;
-    background: #6dc54a;
+    background: #0f1f2f;
     color: rgb(255, 255, 255);
     height: 40px;
     min-height: 100%;
     margin: 0;
     border-radius: 0 7px 7px 0;
-    border: 3px solid #53a846;
+    border: 3px solid #0f1f2f;
     border-left-width: 2px;
                                     "><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" _css2="
                                             @media (max-width: ,768px,) {
